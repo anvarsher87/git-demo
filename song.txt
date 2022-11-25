@@ -7,3 +7,5 @@ demo projectga git gui& ni urganish
 
 
 some content added
+
+GITREVERT i urganish

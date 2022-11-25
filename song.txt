@@ -4,3 +4,6 @@ demo projectga pulling qilish uchun
 
 
 demo projectga git gui& ni urganish
+
+
+some content added
